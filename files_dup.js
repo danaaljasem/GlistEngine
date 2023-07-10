@@ -102,7 +102,6 @@ var files_dup =
     [ "gRenderer.h", "gRenderer_8h_source.html", null ],
     [ "gRenderObject.h", "gRenderObject_8h_source.html", null ],
     [ "gRoundedRectangle.h", "gRoundedRectangle_8h_source.html", null ],
-    [ "gSepiatone.h", "gSepiatone_8h_source.html", null ],
     [ "gShader.h", "gShader_8h_source.html", null ],
     [ "gShadowMap.h", "gShadowMap_8h_source.html", null ],
     [ "gSharpen.h", "gSharpen_8h_source.html", null ],

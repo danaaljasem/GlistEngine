@@ -100,8 +100,7 @@ var hierarchy =
             [ "gBlur", "classgBlur.html", null ],
             [ "gEdgeDetection", "classgEdgeDetection.html", null ],
             [ "gSharpen", "classgSharpen.html", null ]
-          ] ],
-          [ "gSepiatone", "classgSepiatone.html", null ]
+          ] ]
         ] ],
         [ "gBoundingBox", "classgBoundingBox.html", null ],
         [ "gFbo", "classgFbo.html", null ],
